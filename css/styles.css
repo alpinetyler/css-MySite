@@ -28,7 +28,7 @@ h3 {
 }
 
 .bottom-container {
-  
+
 }
 
 .pro {
@@ -45,4 +45,16 @@ h3 {
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+
+.mainpic {
+  height: 200px;
+}
+
+.airplane {
+  height: 200px;
+}
+
+.laptop {
+  height: 200px;
 }
